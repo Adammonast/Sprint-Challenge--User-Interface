@@ -280,6 +280,7 @@ footer nav a {
 }
 
 .first-two-paragraphs{
+    width: 20%;
     display: flex;
     margin: 5px;
 }
